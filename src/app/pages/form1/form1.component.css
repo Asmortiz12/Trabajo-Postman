@@ -1,0 +1,9 @@
+.card {
+    width: 500px;
+    margin: 0 auto;
+    background-color: rgb(115, 115, 115);
+    color: azure;
+ }
+ button {
+     width: 440px;
+  }
