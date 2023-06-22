@@ -1,28 +1,14 @@
-# NombreDelProyecto
+# Capturas de la tarea
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.2.7.
 
-## Development server
-
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
-
-## Code scaffolding
-
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
-
-## Build
-
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
-
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
-
-## Further help![image](https://github.com/Asmortiz12/Templates/assets/119527936/3ade9e3e-536f-4490-913d-e3b8d4295e81)
-
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+## Metodo Get
+![image](https://github.com/Asmortiz12/Trabajo-Postman/assets/119527936/5ae25e29-1229-4a97-829e-bf2d707d1435)
+## Metodo Post
+![image](https://github.com/Asmortiz12/Trabajo-Postman/assets/119527936/d6f5c952-c414-4593-a00c-d56bc4d85c8e)
+## Metodo Put
+![image](https://github.com/Asmortiz12/Trabajo-Postman/assets/119527936/1dfcdb0d-4881-4d21-8b72-c434fdc6bd7d)
+![image](https://github.com/Asmortiz12/Trabajo-Postman/assets/119527936/415ce3dc-fd63-442b-a465-9b12811fb7dd)
+## Metodo Delete
+![image](https://github.com/Asmortiz12/Trabajo-Postman/assets/119527936/55fa9ec8-1837-4138-b807-e111ee9f7f90)
+![image](https://github.com/Asmortiz12/Trabajo-Postman/assets/119527936/7bb2c76b-5131-4081-b743-087e0e206a2f)
