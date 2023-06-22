@@ -1,4 +1,4 @@
-# Frontend
+# NombreDelProyecto
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.2.7.
 
@@ -22,6 +22,7 @@ Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.
 
 Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
 
-## Further help
+## Further help![image](https://github.com/Asmortiz12/Templates/assets/119527936/3ade9e3e-536f-4490-913d-e3b8d4295e81)
+
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.

@@ -4,6 +4,8 @@ import { RegisterComponent } from './register/register.component';
 import { LoginComponent } from './login/login.component';
 import { AuthComponent } from './auth.component';
 
+
+
 @NgModule({
   declarations: [
     RegisterComponent,
@@ -12,10 +14,6 @@ import { AuthComponent } from './auth.component';
   ],
   imports: [
     CommonModule
-  ],
-  exports: [
-    RegisterComponent,
-    LoginComponent
-  ],
+  ]
 })
 export class AuthModule { }
